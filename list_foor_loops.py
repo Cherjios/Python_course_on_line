@@ -16,7 +16,7 @@ print("________________________________________________________")
 [print (i) for i in newList]
 
 print("________________________________________________________")
-#using enumerates
 
+#using enumerates
 for i, val in enumerate(newList):
     print("{}, {}".format(i, val))
